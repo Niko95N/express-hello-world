@@ -39,7 +39,7 @@ const html = `
         font-size: calc(62rem / 16);
       }
       body {
-        background: white;
+        background: gray;
       }
       section {
         border-radius: 1em;
@@ -54,7 +54,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Render!
+      Terveisiä harjoittelun parista!
     </section>
   </body>
 </html>
