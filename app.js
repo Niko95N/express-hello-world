@@ -15,8 +15,9 @@ const html = `
   <head>
     <title>Terveisiä harjoittelun parista!</title>
   </head>
-  <body>
+  <body style="background-color: gray;">
     <section>
+    color: #gray;
       <h1>Terveisiä harjoittelun parista!</h1>
       <p>Ensimmäinen render.com pilvi sivu on luotu onnistuneesti.</p>
     </section>
